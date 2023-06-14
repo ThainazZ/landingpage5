@@ -5,6 +5,4 @@ export const Container = styled.main `
     max-width: 1110px;
     margin: auto;
 
-
-
 `;
