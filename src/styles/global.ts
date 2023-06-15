@@ -14,17 +14,20 @@ html, body {
 
 body {
     background-color: #F8FDFF;
+    font-family: 'Poppins', sans-serif;
 }
 
 button {
     background-color: none;
     border: none;
     outline: none;
+    font-family: 'Poppins', sans-serif;
 }
 
 a {
     text-decoration: none;
     outline: none;
+    font-family: 'Poppins', sans-serif;
 }
 
 
