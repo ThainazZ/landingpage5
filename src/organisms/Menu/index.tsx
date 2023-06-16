@@ -1,4 +1,5 @@
 import * as S from './styles';
+import Button from '../../atoms/Button';
 
 const Menu = () => {
     return (
@@ -24,5 +25,6 @@ const Menu = () => {
 
     );
 };
+
 
 export default Menu;
