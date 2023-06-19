@@ -11,10 +11,15 @@ const globalStyle = createGlobalStyle`
 }
 
 html, body {
+    display: flex;
     height: 100%;
+    width: 100%;
+    justify-content: center;
+    flex: 1;
 }
 
 body {
+   
     background-color: #F8FDFF;
     font-family: 'Poppins', sans-serif;
 }
