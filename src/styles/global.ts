@@ -1,5 +1,7 @@
 import { createGlobalStyle } from "styled-components";
 
+//define o estilo global da tela
+
 const globalStyle = createGlobalStyle`
 
 * {

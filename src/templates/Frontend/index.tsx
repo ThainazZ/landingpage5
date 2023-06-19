@@ -3,7 +3,7 @@ import * as S from './styles';
 import Header from '../../organisms/Header';
 
 
-
+//define o front-end a ser puxado pelo App no pages
 type FrontendProps = {
     children: React.ReactNode;
 };
